@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Ractive",
-  version: "0.5.7",
+  version: "0.5.8",
   git:"https://github.com/parhelium/package-ractive"
 });
 

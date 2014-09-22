@@ -1,3 +1,6 @@
+## 0.5.8 (2014-09-22)
+- support for ractive-legacy@0.5.8
+
 ## 0.5.7 (2014-09-22)
 - support for ractive@0.5.7
 
