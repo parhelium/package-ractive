@@ -1,0 +1,3 @@
+[submodule "lib/ractive"]
+	path = lib/ractive
+	url = git@github.com:ractivejs/ractive.git
