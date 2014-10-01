@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Ractive",
-  version: "0.6.0",
-  git:"https://github.com/parhelium/package-ractive"
+  version: "0.6.0_1",
+  git: "https://github.com/parhelium/package-ractive"
 });
 
 Package.onUse(function(api) {
