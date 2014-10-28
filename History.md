@@ -1,3 +1,6 @@
+## 0.6.1 (2014-10-28)
+- support for ractive-legacy@0.6.1
+
 ## 0.6.0 (2014-10-01)
 - support for ractive-legacy@0.6.0
 - added ractive submodule
